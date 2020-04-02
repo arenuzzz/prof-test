@@ -1,0 +1,2416 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Design System|Atoms/Button disabled 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <button
+      className="css-jpurfi"
+      disabled={true}
+      onClick={[Function]}
+      type="button"
+    >
+      Download
+    </button>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Atoms/Button primary 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <button
+      className="css-jpurfi"
+      disabled={false}
+      onClick={[Function]}
+      type="button"
+    >
+      Downdload
+    </button>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Atoms/Captcha primary 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <div
+      css={
+        Object {
+          "map": undefined,
+          "name": "zsn0iu",
+          "next": undefined,
+          "styles": "
+    iframe {
+      border: none;
+      border-radius: 4px;
+      transition: border 0.3s ease;
+    }
+  ",
+          "toString": [Function],
+        }
+      }
+    />
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Atoms/Input default 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "width": "300px",
+        }
+      }
+    >
+      <div
+        className="css-1lp81me"
+      >
+        <input
+          className="css-1kvtejd"
+          disabled={false}
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          placeholder="Placeholder"
+          readOnly={false}
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Atoms/Link primary 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <a
+      className="css-16rrj94"
+      href="https://shlomi.shpirer@ontrio.io"
+      onClick={[Function]}
+    >
+      Shlomi.Shpirer@ontrio.io
+    </a>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Atoms/Logo primary 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <svg
+      className="css-1r4ebjg"
+    >
+      logo.svg
+    </svg>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Atoms/Typography h1 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <h1
+      className="css-1echnf1"
+    >
+      Headline 1 / Inter Semibold
+    </h1>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Atoms/Typography label 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <label
+      className="css-ajnrrb"
+    >
+      Button text / Inter Regular
+    </label>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Atoms/Typography text 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <span
+      className="css-wm7ms"
+    >
+      TEXT / Inter Regular
+    </span>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Molecules/Form input 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "width": 300,
+        }
+      }
+    >
+      <div
+        className="css-0"
+      >
+        <label
+          className="css-12varo5"
+        >
+          Input Basic
+        </label>
+        <div
+          className="css-1lp81me"
+        >
+          <input
+            className="css-1rrgh0x"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            placeholder=""
+            type="text"
+          />
+          <div
+            className="css-14zgrkw"
+          >
+            <svg
+              className="css-oydfci"
+              status="error"
+              variant="close-full"
+            >
+              i-close-full.svg
+            </svg>
+          </div>
+        </div>
+        <span
+          className="css-45dqsv"
+        >
+          Input Basic
+        </span>
+      </div>
+    </div>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Molecules/Form input with marker 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "width": 500,
+        }
+      }
+    >
+      <div
+        className="css-0"
+      >
+        <label
+          className="css-12varo5"
+        >
+          Input Basic
+        </label>
+        <div
+          className="css-1lp81me"
+        >
+          <input
+            className="css-1rrgh0x"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            placeholder=""
+            type="text"
+          />
+          <div
+            className="css-14zgrkw"
+          >
+            <svg
+              className="css-oydfci"
+              status="error"
+              variant="close-full"
+            >
+              i-close-full.svg
+            </svg>
+          </div>
+        </div>
+        <span
+          className="css-45dqsv"
+        >
+          Input Basic
+        </span>
+        <div
+          className="css-d80yeb"
+        >
+          <div
+            className="marker css-62ow14"
+          >
+            8 characters
+          </div>
+          <div
+            className="marker css-62ow14"
+          >
+            8 characters
+          </div>
+          <div
+            className="marker css-62ow14"
+          >
+            8 characters
+          </div>
+          <div
+            className="marker css-62ow14"
+          >
+            8 characters
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Organisms/Header primary 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <header
+      className="css-klkir9"
+    >
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        <svg
+          className="css-1r4ebjg"
+        >
+          logo.svg
+        </svg>
+      </a>
+    </header>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Organisms/SignInForm company 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "justifyContent": "center",
+          "padding": "21px",
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "height": "100%",
+            "width": 480,
+          }
+        }
+      >
+        <form
+          className="css-1pcnkox"
+          onSubmit={[Function]}
+        >
+          <div
+            className="css-0"
+          >
+            <label
+              className="css-12varo5"
+            >
+              Enter Email*
+            </label>
+            <div
+              className="css-1lp81me"
+            >
+              <input
+                className="css-1kvtejd"
+                name="email"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                placeholder="Your email"
+                type="email"
+                value=""
+              />
+            </div>
+            <span
+              className="css-s4qdtg"
+            />
+          </div>
+          <div
+            className="css-0"
+          >
+            <label
+              className="css-12varo5"
+            >
+              Enter Passsword*
+            </label>
+            <div
+              className="css-1lp81me"
+            >
+              <input
+                className="css-1kvtejd"
+                name="password"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                placeholder="Your password"
+                type="password"
+                value=""
+              />
+            </div>
+            <span
+              className="css-s4qdtg"
+            />
+          </div>
+          <button
+            className="btn-submit css-jpurfi"
+            disabled={false}
+            onClick={[Function]}
+            type="submit"
+          >
+            Sign In
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Organisms/SignInForm demo 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "justifyContent": "center",
+          "padding": "21px",
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "height": "100%",
+            "width": 480,
+          }
+        }
+      >
+        <form
+          className="css-1pcnkox"
+          onSubmit={[Function]}
+        >
+          <div
+            className="css-0"
+          >
+            <label
+              className="css-12varo5"
+            >
+              Enter Email*
+            </label>
+            <div
+              className="css-1lp81me"
+            >
+              <input
+                className="css-1kvtejd"
+                name="email"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                placeholder="Your email"
+                type="email"
+                value=""
+              />
+            </div>
+            <span
+              className="css-s4qdtg"
+            />
+          </div>
+          <div
+            className="css-0"
+          >
+            <label
+              className="css-12varo5"
+            >
+              Enter Passsword*
+            </label>
+            <div
+              className="css-1lp81me"
+            >
+              <input
+                className="css-1kvtejd"
+                name="password"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                placeholder="Your password"
+                type="password"
+                value=""
+              />
+            </div>
+            <span
+              className="css-s4qdtg"
+            />
+          </div>
+          <button
+            className="btn-submit css-jpurfi"
+            disabled={false}
+            onClick={[Function]}
+            type="submit"
+          >
+            Sign In
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Organisms/SignUpForm company 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "justifyContent": "center",
+          "padding": "21px",
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "height": "100%",
+            "width": 480,
+          }
+        }
+      >
+        <form
+          className="css-1pcnkox"
+          onSubmit={[Function]}
+        >
+          <div
+            className="css-0"
+          >
+            <label
+              className="css-12varo5"
+            >
+              Secure code*
+            </label>
+            <div
+              className="css-1lp81me"
+            >
+              <input
+                className="css-1kvtejd"
+                name="secureCode"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                placeholder="41217a20-a412-4272-8519-817775ce4a23"
+                type="text"
+                value=""
+              />
+            </div>
+            <span
+              className="css-s4qdtg"
+            />
+          </div>
+          <div
+            className="css-0"
+          >
+            <label
+              className="css-12varo5"
+            >
+              Enter Email*
+            </label>
+            <div
+              className="css-1lp81me"
+            >
+              <input
+                className="css-1kvtejd"
+                name="email"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                placeholder="Your email"
+                type="email"
+                value=""
+              />
+            </div>
+            <span
+              className="css-s4qdtg"
+            />
+          </div>
+          <div
+            className="css-0"
+          >
+            <label
+              className="css-12varo5"
+            >
+              Enter Passsword*
+            </label>
+            <div
+              className="css-1lp81me"
+            >
+              <input
+                className="css-1kvtejd"
+                name="password"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                placeholder="Your password"
+                type="password"
+                value=""
+              />
+            </div>
+            <span
+              className="css-s4qdtg"
+            />
+            <div
+              className="css-d80yeb"
+            >
+              <div
+                className="marker css-62ow14"
+              >
+                8 characters
+              </div>
+              <div
+                className="marker css-62ow14"
+              >
+                1 uppercase character
+              </div>
+              <div
+                className="marker css-62ow14"
+              >
+                1 lowercase character
+              </div>
+              <div
+                className="marker css-62ow14"
+              >
+                1 figure
+              </div>
+            </div>
+          </div>
+          <div
+            className="css-0"
+          >
+            <label
+              className="css-12varo5"
+            >
+              Re-enter Passsword*
+            </label>
+            <div
+              className="css-1lp81me"
+            >
+              <input
+                className="css-1kvtejd"
+                name="confirmPassword"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                placeholder="Your password"
+                type="password"
+                value=""
+              />
+            </div>
+            <span
+              className="css-s4qdtg"
+            />
+          </div>
+          <button
+            className="btn-submit css-1jmt7h6"
+            disabled={true}
+            onClick={[Function]}
+            type="submit"
+          >
+            Sign Up
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Organisms/SignUpForm demo 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "justifyContent": "center",
+          "padding": "21px",
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "height": "100%",
+            "width": 480,
+          }
+        }
+      >
+        <form
+          className="css-1pcnkox"
+          onSubmit={[Function]}
+        >
+          <div
+            className="css-0"
+          >
+            <label
+              className="css-12varo5"
+            >
+              Enter Email*
+            </label>
+            <div
+              className="css-1lp81me"
+            >
+              <input
+                className="css-1kvtejd"
+                name="email"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                placeholder="Your email"
+                type="email"
+                value=""
+              />
+            </div>
+            <span
+              className="css-s4qdtg"
+            />
+          </div>
+          <div
+            className="css-0"
+          >
+            <label
+              className="css-12varo5"
+            >
+              Enter Passsword*
+            </label>
+            <div
+              className="css-1lp81me"
+            >
+              <input
+                className="css-1kvtejd"
+                name="password"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                placeholder="Your password"
+                type="password"
+                value=""
+              />
+            </div>
+            <span
+              className="css-s4qdtg"
+            />
+            <div
+              className="css-d80yeb"
+            >
+              <div
+                className="marker css-62ow14"
+              >
+                8 characters
+              </div>
+              <div
+                className="marker css-62ow14"
+              >
+                1 uppercase character
+              </div>
+              <div
+                className="marker css-62ow14"
+              >
+                1 lowercase character
+              </div>
+              <div
+                className="marker css-62ow14"
+              >
+                1 figure
+              </div>
+            </div>
+          </div>
+          <div
+            className="css-0"
+          >
+            <label
+              className="css-12varo5"
+            >
+              Re-enter Passsword*
+            </label>
+            <div
+              className="css-1lp81me"
+            >
+              <input
+                className="css-1kvtejd"
+                name="confirmPassword"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                placeholder="Your password"
+                type="password"
+                value=""
+              />
+            </div>
+            <span
+              className="css-s4qdtg"
+            />
+          </div>
+          <div
+            className="css-0"
+          >
+            <div
+              css={
+                Object {
+                  "map": undefined,
+                  "name": "zsn0iu",
+                  "next": undefined,
+                  "styles": "
+    iframe {
+      border: none;
+      border-radius: 4px;
+      transition: border 0.3s ease;
+    }
+  ",
+                  "toString": [Function],
+                }
+              }
+            />
+            <span
+              className="css-s4qdtg"
+            />
+          </div>
+          <button
+            className="btn-submit css-1jmt7h6"
+            disabled={true}
+            onClick={[Function]}
+            type="submit"
+          >
+            Sign Up
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Quarks/Icon all 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "height": "40px",
+          "justifyContent": "space-around",
+          "width": "500px",
+        }
+      }
+    >
+      <svg
+        style={
+          Object {
+            "fill": "red",
+            "height": "40px",
+            "width": "40px",
+          }
+        }
+        variant="check"
+      >
+        i-check.svg
+      </svg>
+      <svg
+        style={
+          Object {
+            "fill": "red",
+            "height": "40px",
+            "width": "40px",
+          }
+        }
+        variant="close-full"
+      >
+        i-close-full.svg
+      </svg>
+      <svg
+        style={
+          Object {
+            "fill": "red",
+            "height": "40px",
+            "width": "40px",
+          }
+        }
+        variant="delete"
+      >
+        i-delete.svg
+      </svg>
+      <svg
+        style={
+          Object {
+            "fill": "red",
+            "height": "40px",
+            "width": "40px",
+          }
+        }
+        variant="down"
+      >
+        i-down.svg
+      </svg>
+      <svg
+        style={
+          Object {
+            "fill": "red",
+            "height": "40px",
+            "width": "40px",
+          }
+        }
+        variant="search"
+      >
+        i-search.svg
+      </svg>
+    </div>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Templates/AuthTemplate Authorization 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <div
+      className="layout css-rrfii2"
+    >
+      <header
+        className="css-klkir9"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          <svg
+            className="css-1r4ebjg"
+          >
+            logo.svg
+          </svg>
+        </a>
+      </header>
+      <main
+        className="css-kknodv"
+      >
+        <section
+          className="css-lpuh48"
+        >
+          <div
+            className="section-body"
+          >
+            <div
+              className="content"
+            >
+              <h1
+                className="title css-1echnf1"
+              >
+                Authorization
+              </h1>
+              <form
+                className="css-1pcnkox"
+                onSubmit={[Function]}
+              >
+                <div
+                  className="css-0"
+                >
+                  <label
+                    className="css-12varo5"
+                  >
+                    Enter Email*
+                  </label>
+                  <div
+                    className="css-1lp81me"
+                  >
+                    <input
+                      className="css-1kvtejd"
+                      name="email"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      placeholder="Your email"
+                      type="email"
+                      value=""
+                    />
+                  </div>
+                  <span
+                    className="css-s4qdtg"
+                  />
+                </div>
+                <div
+                  className="css-0"
+                >
+                  <label
+                    className="css-12varo5"
+                  >
+                    Enter Passsword*
+                  </label>
+                  <div
+                    className="css-1lp81me"
+                  >
+                    <input
+                      className="css-1kvtejd"
+                      name="password"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      placeholder="Your password"
+                      type="password"
+                      value=""
+                    />
+                  </div>
+                  <span
+                    className="css-s4qdtg"
+                  />
+                </div>
+                <button
+                  className="btn-submit css-jpurfi"
+                  disabled={false}
+                  onClick={[Function]}
+                  type="submit"
+                >
+                  Sign In
+                </button>
+              </form>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Templates/AuthTemplate Authorization/Company 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <div
+      className="layout css-rrfii2"
+    >
+      <header
+        className="css-klkir9"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          <svg
+            className="css-1r4ebjg"
+          >
+            logo.svg
+          </svg>
+        </a>
+      </header>
+      <main
+        className="css-kknodv"
+      >
+        <section
+          className="css-lpuh48"
+        >
+          <div
+            className="section-body"
+          >
+            <div
+              className="content"
+            >
+              <h1
+                className="title css-1echnf1"
+              >
+                Authorization
+              </h1>
+              <span
+                className="subtitle css-wm7ms"
+              >
+                Name of the organization
+              </span>
+              <form
+                className="css-1pcnkox"
+                onSubmit={[Function]}
+              >
+                <div
+                  className="css-0"
+                >
+                  <label
+                    className="css-12varo5"
+                  >
+                    Enter Email*
+                  </label>
+                  <div
+                    className="css-1lp81me"
+                  >
+                    <input
+                      className="css-1kvtejd"
+                      name="email"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      placeholder="Your email"
+                      type="email"
+                      value=""
+                    />
+                  </div>
+                  <span
+                    className="css-s4qdtg"
+                  />
+                </div>
+                <div
+                  className="css-0"
+                >
+                  <label
+                    className="css-12varo5"
+                  >
+                    Enter Passsword*
+                  </label>
+                  <div
+                    className="css-1lp81me"
+                  >
+                    <input
+                      className="css-1kvtejd"
+                      name="password"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      placeholder="Your password"
+                      type="password"
+                      value=""
+                    />
+                  </div>
+                  <span
+                    className="css-s4qdtg"
+                  />
+                </div>
+                <button
+                  className="btn-submit css-jpurfi"
+                  disabled={false}
+                  onClick={[Function]}
+                  type="submit"
+                >
+                  Sign In
+                </button>
+              </form>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Templates/AuthTemplate Registration 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <div
+      className="layout css-rrfii2"
+    >
+      <header
+        className="css-klkir9"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          <svg
+            className="css-1r4ebjg"
+          >
+            logo.svg
+          </svg>
+        </a>
+      </header>
+      <main
+        className="css-kknodv"
+      >
+        <section
+          className="css-lpuh48"
+        >
+          <div
+            className="section-body"
+          >
+            <div
+              className="content"
+            >
+              <h1
+                className="title css-1echnf1"
+              >
+                Registration
+              </h1>
+              <form
+                className="css-1pcnkox"
+                onSubmit={[Function]}
+              >
+                <div
+                  className="css-0"
+                >
+                  <label
+                    className="css-12varo5"
+                  >
+                    Enter Email*
+                  </label>
+                  <div
+                    className="css-1lp81me"
+                  >
+                    <input
+                      className="css-1kvtejd"
+                      name="email"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      placeholder="Your email"
+                      type="email"
+                      value=""
+                    />
+                  </div>
+                  <span
+                    className="css-s4qdtg"
+                  />
+                </div>
+                <div
+                  className="css-0"
+                >
+                  <label
+                    className="css-12varo5"
+                  >
+                    Enter Passsword*
+                  </label>
+                  <div
+                    className="css-1lp81me"
+                  >
+                    <input
+                      className="css-1kvtejd"
+                      name="password"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      placeholder="Your password"
+                      type="password"
+                      value=""
+                    />
+                  </div>
+                  <span
+                    className="css-s4qdtg"
+                  />
+                  <div
+                    className="css-d80yeb"
+                  >
+                    <div
+                      className="marker css-62ow14"
+                    >
+                      8 characters
+                    </div>
+                    <div
+                      className="marker css-62ow14"
+                    >
+                      1 uppercase character
+                    </div>
+                    <div
+                      className="marker css-62ow14"
+                    >
+                      1 lowercase character
+                    </div>
+                    <div
+                      className="marker css-62ow14"
+                    >
+                      1 figure
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="css-0"
+                >
+                  <label
+                    className="css-12varo5"
+                  >
+                    Re-enter Passsword*
+                  </label>
+                  <div
+                    className="css-1lp81me"
+                  >
+                    <input
+                      className="css-1kvtejd"
+                      name="confirmPassword"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      placeholder="Your password"
+                      type="password"
+                      value=""
+                    />
+                  </div>
+                  <span
+                    className="css-s4qdtg"
+                  />
+                </div>
+                <div
+                  className="css-0"
+                >
+                  <div
+                    css={
+                      Object {
+                        "map": undefined,
+                        "name": "zsn0iu",
+                        "next": undefined,
+                        "styles": "
+    iframe {
+      border: none;
+      border-radius: 4px;
+      transition: border 0.3s ease;
+    }
+  ",
+                        "toString": [Function],
+                      }
+                    }
+                  />
+                  <span
+                    className="css-s4qdtg"
+                  />
+                </div>
+                <button
+                  className="btn-submit css-1jmt7h6"
+                  disabled={true}
+                  onClick={[Function]}
+                  type="submit"
+                >
+                  Sign Up
+                </button>
+              </form>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Templates/AuthTemplate Registration/Company 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <div
+      className="layout css-rrfii2"
+    >
+      <header
+        className="css-klkir9"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          <svg
+            className="css-1r4ebjg"
+          >
+            logo.svg
+          </svg>
+        </a>
+      </header>
+      <main
+        className="css-kknodv"
+      >
+        <section
+          className="css-lpuh48"
+        >
+          <div
+            className="section-body"
+          >
+            <div
+              className="content"
+            >
+              <h1
+                className="title css-1echnf1"
+              >
+                Registration
+              </h1>
+              <span
+                className="subtitle css-wm7ms"
+              >
+                Name of the organization
+              </span>
+              <form
+                className="css-1pcnkox"
+                onSubmit={[Function]}
+              >
+                <div
+                  className="css-0"
+                >
+                  <label
+                    className="css-12varo5"
+                  >
+                    Secure code*
+                  </label>
+                  <div
+                    className="css-1lp81me"
+                  >
+                    <input
+                      className="css-1kvtejd"
+                      name="secureCode"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      placeholder="41217a20-a412-4272-8519-817775ce4a23"
+                      type="text"
+                      value=""
+                    />
+                  </div>
+                  <span
+                    className="css-s4qdtg"
+                  />
+                </div>
+                <div
+                  className="css-0"
+                >
+                  <label
+                    className="css-12varo5"
+                  >
+                    Enter Email*
+                  </label>
+                  <div
+                    className="css-1lp81me"
+                  >
+                    <input
+                      className="css-1kvtejd"
+                      name="email"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      placeholder="Your email"
+                      type="email"
+                      value=""
+                    />
+                  </div>
+                  <span
+                    className="css-s4qdtg"
+                  />
+                </div>
+                <div
+                  className="css-0"
+                >
+                  <label
+                    className="css-12varo5"
+                  >
+                    Enter Passsword*
+                  </label>
+                  <div
+                    className="css-1lp81me"
+                  >
+                    <input
+                      className="css-1kvtejd"
+                      name="password"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      placeholder="Your password"
+                      type="password"
+                      value=""
+                    />
+                  </div>
+                  <span
+                    className="css-s4qdtg"
+                  />
+                  <div
+                    className="css-d80yeb"
+                  >
+                    <div
+                      className="marker css-62ow14"
+                    >
+                      8 characters
+                    </div>
+                    <div
+                      className="marker css-62ow14"
+                    >
+                      1 uppercase character
+                    </div>
+                    <div
+                      className="marker css-62ow14"
+                    >
+                      1 lowercase character
+                    </div>
+                    <div
+                      className="marker css-62ow14"
+                    >
+                      1 figure
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="css-0"
+                >
+                  <label
+                    className="css-12varo5"
+                  >
+                    Re-enter Passsword*
+                  </label>
+                  <div
+                    className="css-1lp81me"
+                  >
+                    <input
+                      className="css-1kvtejd"
+                      name="confirmPassword"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      placeholder="Your password"
+                      type="password"
+                      value=""
+                    />
+                  </div>
+                  <span
+                    className="css-s4qdtg"
+                  />
+                </div>
+                <button
+                  className="btn-submit css-1jmt7h6"
+                  disabled={true}
+                  onClick={[Function]}
+                  type="submit"
+                >
+                  Sign Up
+                </button>
+              </form>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Templates/LayoutTemplate default 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <div
+      className="layout css-rrfii2"
+    >
+      <header
+        className="css-klkir9"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          <svg
+            className="css-1r4ebjg"
+          >
+            logo.svg
+          </svg>
+        </a>
+      </header>
+      <main
+        className="css-kknodv"
+      >
+        Main
+      </main>
+    </div>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Templates/WelcomeTemplate company 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <div
+      className="layout css-rrfii2"
+    >
+      <header
+        className="css-klkir9"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          <svg
+            className="css-1r4ebjg"
+          >
+            logo.svg
+          </svg>
+        </a>
+      </header>
+      <main
+        className="css-kknodv"
+      >
+        <section
+          className="css-lk8nj9"
+        >
+          <div
+            className="section-body"
+          >
+            <div
+              className="content"
+            >
+              <h1
+                className="title css-1echnf1"
+              >
+                Welcome to PROFILER
+              </h1>
+              <span
+                className="description css-wm7ms"
+              >
+                Name of organization
+              </span>
+              <a
+                href="/sign-in"
+                onClick={[Function]}
+              >
+                <button
+                  className="btn-sign-in css-jpurfi"
+                  disabled={false}
+                  onClick={[Function]}
+                  type="button"
+                >
+                  Sign In
+                </button>
+              </a>
+              <a
+                href="/sign-up"
+                onClick={[Function]}
+              >
+                <button
+                  className="btn-sign-up css-1jmt7h6"
+                  disabled={false}
+                  onClick={[Function]}
+                  type="button"
+                >
+                  Sign Up
+                </button>
+              </a>
+            </div>
+          </div>
+          <div
+            className="section-foot"
+          >
+            <a
+              className="css-16rrj94"
+              href="mailto:shlomi.shpirer@ontrio.io"
+            >
+              shlomi.shpirer@ontrio.io
+            </a>
+          </div>
+        </section>
+      </main>
+    </div>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;
+
+exports[`Storyshots Design System|Templates/WelcomeTemplate demo 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }
+  >
+    <div
+      className="layout css-rrfii2"
+    >
+      <header
+        className="css-klkir9"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          <svg
+            className="css-1r4ebjg"
+          >
+            logo.svg
+          </svg>
+        </a>
+      </header>
+      <main
+        className="css-kknodv"
+      >
+        <section
+          className="css-lk8nj9"
+        >
+          <div
+            className="section-body"
+          >
+            <div
+              className="content"
+            >
+              <h1
+                className="title css-1echnf1"
+              >
+                Welcome to PROFILER
+              </h1>
+              <span
+                className="description css-wm7ms"
+              >
+                After the registration you will have visitor rights only. Visitor can track just 20 groups or channels during 14 days. After the expiry of trial period your visitor account will be stopped. If you want to have full access, write the request on this email.
+              </span>
+              <a
+                href="/sign-in"
+                onClick={[Function]}
+              >
+                <button
+                  className="btn-sign-in css-jpurfi"
+                  disabled={false}
+                  onClick={[Function]}
+                  type="button"
+                >
+                  Sign In
+                </button>
+              </a>
+              <a
+                href="/sign-up"
+                onClick={[Function]}
+              >
+                <button
+                  className="btn-sign-up css-1jmt7h6"
+                  disabled={false}
+                  onClick={[Function]}
+                  type="button"
+                >
+                  Sign Up
+                </button>
+              </a>
+            </div>
+          </div>
+          <div
+            className="section-foot"
+          >
+            <a
+              className="css-16rrj94"
+              href="mailto:shlomi.shpirer@ontrio.io"
+            >
+              shlomi.shpirer@ontrio.io
+            </a>
+          </div>
+        </section>
+      </main>
+    </div>
+  </div>,
+  <button
+    className="info__show-button"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#027ac5",
+        "border": "none",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    type="button"
+  >
+    Show Info
+  </button>,
+]
+`;

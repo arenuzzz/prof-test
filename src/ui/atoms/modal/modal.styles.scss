@@ -1,0 +1,29 @@
+.modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    background: rgb(255, 255, 255);
+    overflow: auto;
+    border-radius: 4px;
+    outline: none;
+
+    @media screen and (max-height: 600px) {
+        margin-top: 60px;
+        margin-bottom: 30px;
+    }
+}
+
+.modal-overlay {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    z-index: 100;
+    background-color: rgba(44, 44, 44, 0.9);
+    overflow-y: auto;
+}

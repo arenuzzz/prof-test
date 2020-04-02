@@ -1,0 +1,4 @@
+{
+  "include": ["**/*.stories.tsx"],
+  "extends": "../tsconfig.json"
+}

@@ -1,0 +1,16 @@
+/build/**
+/public/**
+/.cache/**
+/.linaria-cache/**
+/node_modules/**
+/static/**
+/config/**
+/scripts/**
+/storybook-static/**
+
+*.config.js
+*.test.js
+**/test-utils/**
+
+
+
