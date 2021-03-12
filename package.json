@@ -131,7 +131,7 @@
     "react-compound-timer": "^1.1.15",
     "react-custom-scrollbars": "^4.2.1",
     "react-datepicker": "^2.11.0",
-    "react-dev-utils": "^9.1.0",
+    "react-dev-utils": "^11.0.4",
     "react-docgen-typescript-loader": "^3.3.0",
     "react-dom": "^16.11.0",
     "react-final-form": "^6.3.0",
